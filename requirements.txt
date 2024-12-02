@@ -1,0 +1,13 @@
+# MQTT communication
+paho-mqtt==1.6.1
+
+# Serial communication
+pyserial==3.5
+
+# Computer Vision library
+opencv-python==4.8.0.74
+
+# Bluetooth Low Energy (BLE) communication
+bleak==0.22.0
+
+numpy==1.26.4
